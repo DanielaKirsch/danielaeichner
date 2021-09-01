@@ -12,7 +12,7 @@ export default function Home() {
     <body>
   
 {/* WRAPPER ALL */}
-<div className="tokyo_tm_all_wrap" data-magic-cursor="hide" data-color="black"> {/* If you want disable magic cursor add value "hide" */}  
+<div className="tokyo_tm_all_wrap"> {/* If you want disable magic cursor add value "hide" */}  
   
   <Navigation />
   
