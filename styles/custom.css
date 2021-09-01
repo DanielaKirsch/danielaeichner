@@ -1,0 +1,8 @@
+.jobEmail a {
+  color: #333;
+  text-decoration:none;
+}
+
+.jobEmail a:hover, .jobEmail a:active, .jobEmail a:visited {
+  text-decoration:underline;
+}
