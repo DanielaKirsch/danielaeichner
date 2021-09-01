@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 const Navigation = () => {
   return (
@@ -9,14 +10,10 @@ const Navigation = () => {
           <div className="menu">
             <ul>
               <li className="active">
-                <a href="/">Home</a>
+                <Link href="/home">
+                  <a>Home</a>
+                </Link>
               </li>
-              {/*<li>
-                <a href="/resume">Resume</a>
-              </li>
-              <li>
-                <a href="/photography">Photography</a>
-              </li>*/}
             </ul>
           </div>
         </div>
@@ -29,14 +26,10 @@ const Navigation = () => {
           <div className="menu">
             <ul>
               <li className="active">
-                <a href="/">Home</a>
+                <Link href="/home">
+                  <a>Home</a>
+                </Link>
               </li>
-              {/*<li>
-                <a href="/resume">Resume</a>
-              </li>
-              <li>
-                <a href="/photography">Photography</a>
-              </li>*/}
             </ul>
           </div>
         </div>

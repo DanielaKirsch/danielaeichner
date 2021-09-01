@@ -29,7 +29,7 @@ html {
   margin: 0px
 }
 body{
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.5px;
@@ -83,7 +83,7 @@ img.svg{
 h1, h2, h3, h4, h5, h6{
   font-weight:500;
   line-height: 1.4;
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   color: #000;
 }
 
@@ -311,7 +311,7 @@ h6 { font-size: 16px; }
   color: #767676;
   display: inline-block;
   font-weight: 400;
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   
   -webkit-transition: all .3s ease;
      -moz-transition: all .3s ease;
@@ -334,7 +334,7 @@ h6 { font-size: 16px; }
 .tokyo_tm_all_wrap .leftpart .copyright p{
   font-size: 15px;
   color: #999;
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   line-height: 25px;
   font-style: italic;
 }
@@ -456,7 +456,7 @@ h6 { font-size: 16px; }
   margin-bottom: 14px;
 }
 .tokyo_tm_home .details .job{
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   max-width: 450px;
   margin-bottom: 30px;
   color:  #333;
@@ -843,7 +843,7 @@ h6 { font-size: 16px; }
 }
 .tokyo_tm_title h3{
   font-weight: 800;
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
 } 
 .tokyo_tm_title span{
   display: inline-block;
@@ -853,7 +853,7 @@ h6 { font-size: 16px; }
   font-weight: 600;
   font-size: 12px;
   color: #333;
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   letter-spacing: 0px;
   margin-bottom: 11px;
 }
@@ -881,7 +881,7 @@ h6 { font-size: 16px; }
   color: #767676;
   display: inline-block;
   font-weight: 500;
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   
   -webkit-transition: all .3s ease;
      -moz-transition: all .3s ease;
@@ -956,7 +956,7 @@ h6 { font-size: 16px; }
   background: #ffffff;
   font-size: 18px;
   padding: 5px 15px;
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   font-weight: 600;
   color: #000;
   position: fixed;
@@ -974,7 +974,7 @@ h6 { font-size: 16px; }
   top: 100%;
   left: 0;
   margin-top: -10px;
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   font-weight: 500;
   padding: 5px 15px;
   color: #767676;
@@ -1244,7 +1244,7 @@ h6 { font-size: 16px; }
   color: #000;
 }
 .tokyo_tm_news ul li .details .date{
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   font-size: 13px;
   color: #767676;
   font-style: italic;
@@ -1321,7 +1321,7 @@ h6 { font-size: 16px; }
   text-transform: uppercase;
     font-weight: 500;
   font-size: 12px;
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
 }
 .tokyo_tm_read_more a:before{
   position: absolute;
@@ -1541,7 +1541,7 @@ h6 { font-size: 16px; }
 }
 .tokyo_tm_modalbox .date{
   text-transform: uppercase;
-    font-family: "Roboto";
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 12px;
     color: #767676;
     font-style: italic;
@@ -1635,7 +1635,7 @@ body.modal{
   align-items: center;
 }
 .tokyo_tm_modalbox .news_share span{
-  font-family: "Roboto";
+  font-family: 'Roboto Condensed', sans-serif;
   font-weight: 600;
   font-style: italic;
   padding-right: 20px;
