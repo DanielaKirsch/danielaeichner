@@ -22,6 +22,9 @@ module.exports = {
         '8': '8rem',
       },
       colors: {
+        darkblue: {
+          600: '#242735'
+        },
         magic: {
           700: '#e0024b',
           600: '#ff0054',
