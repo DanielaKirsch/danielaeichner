@@ -9,7 +9,7 @@ const myfeatures = [
   
   { name: 'dan1ela.eth', stat: 'OpenSea', link:'https://opensea.io/dan1ela.eth' },
   { name: 'daniela@nameface.com', stat: 'Email', link:'mailto:daniela@nameface.com' },
-  { name: 'daniela_eichner', stat: 'Instagram', link:'https://www.instagram.com/daniela_eichner' },
+  
 ]
 
 
@@ -44,11 +44,7 @@ export default function Index() {
           </div>
         </div>
         <div className="relative w-full h-64 sm:h-72 md:h-96 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 lg:h-full">
-          <img
-            className="absolute inset-0 w-full h-full object-cover"
-            src="/img/danielaeichner.png"
-            alt=""
-          />
+         
         </div>
 
       </main>
@@ -95,10 +91,7 @@ export default function Index() {
               Magic Wizard Tech Inc.
             </h2>
             <p className="mt-8 text-2xl text-white">
-            I started my newest venture Magic Wizard Tech in 2022 with my two partners Steve and Kerm to build tools for the blockchain. </p>
-            <p className="mt-8 text-2xl text-white">
-            Our first product is MessageInfinity - a messenger app to communicate wallet to wallet cross-chain. 
-            </p>
+            I started my newest venture Magic Wizard Tech in 2022 to build tools for the blockchain. </p>
            
           </div>
         </div>
